@@ -37,7 +37,7 @@ From my LinkedIn profile
 Actuary - Actuarial Science - Not finished
 BBA - Bachelor of Administration, University of Buenos Aires (UBA)
 
-MBA - Master in Business Administration (IAE Business School). She is currently finishing her second master’s degree, MPP - Master in Public Policy, University of Georgetown. Since December 2015, she has worked in the Public Sector, Ministry of Interior and Housing of the Argentine Nation. Its political task is marked by the fight against injustice, and by the construction of an Open, participatory, collaborative and transparent Government. In the management area, she was the CEO of Water Public Company in Argentine, (Aysa- Agua y Saneamientos de Argentina, S.A.) (2015-2017). Prior to this, her experience and professional career was carried out in the private sector for more than 10 years, occupying regional and global management positions in multinational firms. (2005-2015)
+MBA - Master in Business Administration (IAE Business School). She is currently finishing her second master’s degree, MPP - Master in Public Policy, (University of Georgetown). Since December 2015, she has worked in the Public Sector, Ministry of Interior and Housing of the Argentine Nation. Its political task is marked by the fight against injustice, and by the construction of an Open, participatory, collaborative and transparent Government. She was the CEO of Water Public Company in Argentine, (Aysa- Agua y Saneamientos de Argentina, S.A.) (2015-2017). Prior to this, her experience and professional career was carried out in the private sector for more than 10 years, occupying regional and global management positions in multinational firms. (2005-2015)
 
 IMG_5910.jpg
 Systemic Governance
@@ -46,7 +46,6 @@ The United Nations designed the SDGs as a clear path for the future of the world
 https://twitter.com/Joannapicetti/status/1281882887252578306
 
 Joanna Picetti is Argentinian congresswoman on a mission to empower children and women in the global south and create a new model of democracy designed for 2020 and beyond…
-
 
 
 
