@@ -75,3 +75,33 @@ Unified Global Government is a big vision, that is why getting there in stages.
 Special Economic Zones is the direct path towards accomplishing this goal.
 
 Simplifying global trade and adding blockchain trust and transparency can completely change how we do Business. 
+
+
+
+
+enum Token { Personhood, Registration, Immigration }
+mapping (uint => mapping (Token => mapping (address => uint))) public balanceOf;
+mapping (uint => mapping (Token => mapping (address => mapping (address => uint)))) public allowed;
+function _transfer(uint _t, address _from, address _to, uint _value, Token _token) internal {
+require(balanceOf[_t][_token][_from] >= _value);
+balanceOf[_t][_token][_from] -= _value;
+balanceOf[_t][_token][_to] += _value;
+}
+function transfer(address _to, uint _value, Token _token) external {
+_transfer(schedule(), msg.sender, _to, _value, _token);
+}
+function approve(address _spender, uint _value, Token _token) external {
+allowed[schedule()][_token][msg.sender][_spender] = _value;
+}
+function transferFrom(address _from, address _to, uint _value, Token _token) external {
+uint t = schedule();
+require(allowed[t][_token][_from][msg.sender] >= _value);
+_transfer(t, _from, _to, _value, _token);
+allowed[t][_token][_from][msg.sender] -= _value;
+}
+
+
+
+
+
+
